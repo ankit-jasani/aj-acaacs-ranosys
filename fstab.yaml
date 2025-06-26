@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/ankit-jasani/aj-acaacs-ranosys/
+    type: markup
+
+folders:
+  /products/: /products/default
